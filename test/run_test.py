@@ -16,6 +16,8 @@ from torch.utils import cpp_extension
 from common import TEST_WITH_ROCM
 import torch.distributed as dist
 
+raise Exception
+
 TESTS = [
     'autograd',
     'cpp_extensions',
