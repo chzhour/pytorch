@@ -1,6 +1,8 @@
 #ifndef CAFFE2_CORE_COMMON_H_
 #define CAFFE2_CORE_COMMON_H_
 
+lorem ipsum
+
 #include <algorithm>
 #include <cmath>
 #include <map>
